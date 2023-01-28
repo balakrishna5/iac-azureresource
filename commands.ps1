@@ -39,3 +39,8 @@ TERRAFORM
 WE need to import the resource group before apply (3rd step) use below command
 
 terraform import azurerm_resource_group.my_resource_group /subscriptions/1889f9ae-c59a-472e-a6c9-32d6d3f97d30/resourceGroups/learn-7b3237b6-80c9-413e-a437-1e5a2cea4336
+
+
+
+  git config --global user.email "krishuk1089@outlook.com"
+  git config --global user.name "balakrishna5"
