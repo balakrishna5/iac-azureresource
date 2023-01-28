@@ -1,5 +1,5 @@
 on: [push]
-name: Azure ARM
+name: Deploy Azure resources using ARM templates
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
